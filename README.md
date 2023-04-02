@@ -18,8 +18,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: About Me :
-I am a python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 🇷🇺.
 - :telescope: I study in the system of Yandex corporation and take an active part in various startups and projects.
 
 - :seedling: Exploring Technical Content Writing.
