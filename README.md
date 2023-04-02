@@ -11,7 +11,7 @@
     </div>
     <div align="center">
     <h1>
-    hey guys
+    Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     </div>
@@ -21,13 +21,22 @@
 
 ### :woman_technologist: About Me :
 I am a python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 🇷🇺.
+###### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Yandex+Academy+student)](https://git.io/typing-svg)
 - :telescope: I study in the system of Yandex corporation and take an active part in various startups and projects.
-
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on CodeWars and Codeforses and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ne1roH)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### :trophy: GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=neiroun)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -71,4 +80,20 @@ I am a python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neiroun&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neiroun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neiroun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiroun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neiroun&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neiroun&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neiroun&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neiroun&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neiroun&theme=solarized_dark)
+
+---
+### :fire: My CodeWars and LeetCode statistic
+[![codewars](https://www.codewars.com/users/LeVisT/badges/large)](https://www.codewars.com/users/LeVisT) 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
