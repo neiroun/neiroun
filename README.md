@@ -26,7 +26,7 @@ I am a python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on CodeWars and Codeforses and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-ne1roH-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ne1roH)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
