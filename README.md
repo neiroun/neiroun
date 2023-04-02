@@ -1,18 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<center>
-    <div id="badges">
+    <div id="badges" align="center">
     <a href="https://www.codewars.com/users/LeVisT">
         <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Twitter Badge"/>
     </a>
     </div>
+    <div align="center">
     <img src="https://komarev.com/ghpvc/?username=neiroun&style=flat-square&color=blue" alt=""/>
+    </div>
     <h1>
     hey guys
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
-</center>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
