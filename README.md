@@ -95,5 +95,5 @@ I am a python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :fire: My CodeWars and LeetCode statistic
 [![codewars](https://www.codewars.com/users/LeVisT/badges/large)](https://www.codewars.com/users/LeVisT) 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=neiroun&theme=dark)](https://github.com/neiroun/leetcode-stats)
 
