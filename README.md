@@ -1,93 +1,227 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-    <div id="badges" align="center">
-    <a href="https://www.codewars.com/users/LeVisT">
-        <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    </div>
-    <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=neiroun&style=flat-square&color=blue" alt=""/>
-    </div>
-    <div align="center">
-    <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-    </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-### :woman_technologist: About Me :
-I am a python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 🇷🇺.
-###### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Yandex+Academy+student)](https://git.io/typing-svg)
-- :telescope: I study in the system of Yandex corporation and take an active part in various startups and projects.
-- :seedling: Exploring Technical Content Writing.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:58A6FF&text=neiroun&fontAlign=50&fontAlignY=38&fontSize=54&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Go%20%7C%20Python%20%7C%20C%2B%2B&descAlign=50&descAlignY=58&descSize=18" alt="profile banner" />
 
-- :zap: In my free time, I solve problems on CodeWars and Codeforses and read tech articles.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=%3E+building+clean+backend+systems;%3E+writing+bots%2C+APIs+and+automation;%3E+coding+with+Go%2C+Python+and+C%2B%2B" alt="typing intro" />
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/notrealtobe)
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### :trophy: GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=neiroun)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cmake/cmake-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :fire: My Stats :
+<table>
+<tr>
+<td width="55%" valign="top">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neiroun&theme=dark&background=000000)](https://git.io/streak-stats)
+## О себе
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neiroun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Я backend-разработчик, который любит, когда система не только работает, но и остается понятной после третьей чашки кофе.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiroun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Пишу сервисы, ботов, API, инструменты автоматизации и системные утилиты. Делаю упор на чистую структуру, простые решения и код, который не страшно открыть через полгода.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neiroun&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neiroun&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neiroun&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neiroun&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neiroun&theme=solarized_dark)
+```go
+type Profile struct {
+    Name      string
+    Role      string
+    Stack     []string
+    Focus     []string
+}
 
+me := Profile{
+    Name:  "neiroun",
+    Role:  "Backend Developer",
+    Stack: []string{"Go", "Python", "C++", "PostgreSQL", "Docker", "Linux"},
+    Focus: []string{"Bots", "APIs", "Automation", "Backend", "Systems"},
+}
+```
+
+</td>
+<td width="45%" valign="top">
+
+## Сейчас в фокусе
+
+```text
+backend       ███████████████████░  95%
+go            ██████████████████░░  90%
+python        █████████████████░░░  85%
+automation    ████████████████░░░░  80%
+c++           ███████████████░░░░░  75%
+databases     ███████████████░░░░░  75%
+devops        █████████████░░░░░░░  65%
+```
+
+## Быстрые факты
+
+- Люблю Go за простоту и скорость.
+- Использую Python для автоматизации, API и быстрых прототипов.
+- Пишу на C++, когда важны контроль, скорость и системный уровень.
+- Собираю ботов и интеграции.
+- Уважаю понятные README и нормальные ошибки.
+- За минимализм, но не за пустоту.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Технологии
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,py,cpp,fastapi,postgres,docker,linux,git,github,bash,redis,nginx,grafana,cmake&theme=dark" alt="Tech stack" />
+
+<br />
+<br />
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=white)
+
+</div>
+
+---
+
+## Проектные направления
+
+<table>
+<tr>
+<td width="50%">
+
+### Distributed Task Queue
+
+Очередь фоновых задач с воркерами, ретраями, приоритетами, дедлайнами и хранением состояния задач.
+
+**Стек:** Go, PostgreSQL, Redis, Docker
+
+</td>
+<td width="50%">
+
+### Auth Gateway
+
+Сервис авторизации с JWT, refresh-токенами, RBAC, rate limiting и аудитом пользовательских действий.
+
+**Стек:** Go, PostgreSQL, Redis, REST API
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Realtime Analytics Pipeline
+
+Пайплайн обработки событий: прием данных, агрегация метрик, фоновые задачи и визуализация результатов.
+
+**Стек:** Python, FastAPI, PostgreSQL, Grafana
+
+</td>
+<td width="50%">
+
+### C++ Performance Core
+
+Высокопроизводительный модуль для алгоритмов, работы с памятью, бенчмарков и интеграции с backend-сервисом.
+
+**Стек:** C++, CMake, Linux, Google Benchmark
+
+</td>
+</tr>
+</table>
+
+---
+
+## Как я подхожу к разработке
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 01
+
+**Design first**
+
+Продумываю структуру, границы модулей, данные и сценарии ошибок до активной разработки.
+
+</td>
+<td width="33%" align="center">
+
+### 02
+
+**Build clean**
+
+Пишу код так, чтобы его можно было читать, тестировать, расширять и спокойно поддерживать.
+
+</td>
+<td width="33%" align="center">
+
+### 03
+
+**Ship stable**
+
+Слежу за надежностью: логи, метрики, обработка сбоев, контейнеризация и понятный запуск.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```text
+┌────────────────┐     ┌────────────────┐     ┌────────────────┐
+│  Architecture  │ --> │ Implementation │ --> │   Reliability  │
+└────────────────┘     └────────────────┘     └────────────────┘
+        │                      │                       │
+        v                      v                       v
+   clear modules          readable code          logs & metrics
+   simple APIs            tests & docs           stable deploy
+```
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**Backend**
+
+APIs, services, queues
+
+</td>
+<td width="25%" align="center">
+
+**Automation**
+
+Bots, scripts, tools
+
+</td>
+<td width="25%" align="center">
+
+**Systems**
+
+C++, Linux, performance
+
+</td>
+<td width="25%" align="center">
+
+**Quality**
+
+Tests, logs, docs
+
+</td>
+</tr>
+</table>
+
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:0D1117" alt="footer" />
+
+</div>
